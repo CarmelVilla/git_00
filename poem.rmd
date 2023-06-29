@@ -15,12 +15,70 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+"You are old, father William," the young man said,    
+"And your hair has become very white;   
+And yet you incessantly stand on your head —    
+Do you think, at your age, it is right?"    
+"In my youth," father William replied to his son,   
+  
+  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+Some say the world will end in fire,    
+Some say in ice.    
+From what I’ve tasted of desire   
+I hold with those who favor fire.   
+But if it had to perish twice,    
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,    
+Shining with all his might:   
+He did his very best to make    
+The billows smooth and bright —   
+And this was odd, because it was    
+The middle of the night.    
+
+The moon was shining sulkily,   
+Because she thought the sun   
+Had got no business to be there   
+After the day was done —    
+"It's very rude of him," she said,    
+"To come and spoil the fun."    
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+In a world adorned with golden light,   
+Where dreams take flight on wings of might,   
+Where laughter dances and sorrows cease,    
+A symphony of life, a sweet release.    
+
+Sunflowers sway with joyful grace,    
+Embracing the sun's warm, tender embrace.   
+Whispers of wind carry secrets untold,        
+Nature's tapestry, a story unfold.    
+
+Moonbeams paint the canvas of the night,    
+Guiding lost souls with their gentle light,   
+Stars twinkle, like diamonds in the sky,    
+A celestial chorus, singing lullabies.    
+
+Love's gentle touch, a healing balm,    
+Unfolding hearts like a delicate psalm.   
+Kindness ripples, a river divine,   
+Connecting souls, a sacred lifeline.    
+
+In this realm of wonders, both grand and small,   
+Life's tapestry weaves a magical sprawl.    
+Let us cherish each moment, precious and true,    
+For within this world, our dreams can come true.        
+
+
+ 
+
+
+
+
+
